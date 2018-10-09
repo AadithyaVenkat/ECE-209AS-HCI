@@ -58,8 +58,8 @@ footer, header, hgroup, menu, nav, section {
 	}
 	#finish1{
 
-		text-decoration: overline;
-		color: #fff
+		text-decoration: line-through;
+		color: #800000
 	}
 
 	.timing{
